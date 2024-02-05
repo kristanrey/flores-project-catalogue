@@ -24,12 +24,17 @@ async function fetchAndDisplayProducts() {
             const productPrice = document.createElement('p');
             productPrice.textContent = `Price: $${product.price}`;
 
+            // Access "description" property
+            const productDescription = document.createElement('p');
+            productDescription.textContent = `Description: ${product.description}`;
+
             // Access "date added" property using square bracket notation
             const productDate = document.createElement('p');
             productDate.textContent = `Date Added: ${product['date added']}`;
 
             productCard.appendChild(productName);
             productCard.appendChild(productPrice);
+            productCard.appendChild(productDescription); // Include product description
             productCard.appendChild(productDate);
 
             productList.appendChild(productCard);
