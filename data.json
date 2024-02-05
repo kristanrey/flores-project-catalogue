@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "SIOPAO",
-    "price": 19.99,
+    "price": 10,
     "description": "LAMI",
     "date added": "2024-02-05"
   },
   {
     "id": 2,
     "name": "LUMPIA",
-    "price": 29.99,
+    "price": 20,
     "description": "LAMI KAAYU",
     "date added": "2024-02-05"
   },
