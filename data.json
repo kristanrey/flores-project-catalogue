@@ -4,27 +4,27 @@
     "name": "SIOPAO",
     "price": 19.99,
     "description": "LAMI",
-    "date": "2024-02-05"
+    "date added": "2024-02-05"
   },
   {
     "id": 2,
     "name": "LUMPIA",
     "price": 29.99,
     "description": "LAMI KAAYU",
-    "date": "2024-02-05"
+    "date added": "2024-02-05"
   },
   {
     "id": 3,
     "name": "HOTDOG",
     "price": 39.99,
     "description": "PULA KAAYU",
-    "date": "2024-02-05"
+    "date added": "2024-02-05"
   },
   {
     "id": 4,
     "name": "BANANAQUE",
     "price": 49.99,
     "description": "TAM IS KAAYU",
-    "date": "2024-02-05"
+    "date added": "2024-02-05"
   }
 ]
