@@ -3,28 +3,32 @@
     "id": 1,
     "name": "Swing arm",
     "price": 1000,
-    "description": "string JRP",
-    "date added": "2024-02-06"
+    "description": "strOng JRP",
+    "date added": "2024-02-13",
+    "imageURL": "https://cf.shopee.ph/file/77537b2c4886afe2e84285d84cc02437_tn"
   },
   {
     "id": 2,
     "name": "frontshock",
     "price": 2000,
-    "description": "JRP",
-    "date added": "2024-02-06"
+    "description": "Jrp main in thaildand",
+    "date added": "2024-02-13",
+    "imageURL": "https://cf.shopee.ph/file/185ad6555450d5c8e7adc606b0100b0b"
   },
   {
     "id": 3,
-    "name": "Set cover",
-    "price": 39.99,
-    "description": "Strong",
-    "date added": "2024-02-06"
+    "name": "Flat seat",
+    "price": 1200,
+    "description": "main in thailand",
+    "date added": "2024-02-13",
+    "imageURL": "https://cf.shopee.ph/file/89c2a0fe8dc82de456d8d1bf8c1adf00"
   },
   {
     "id": 4,
-    "name": "flatseat",
-    "price": 49.99,
-    "description": "strong",
-    "date added": "2024-02-06"
+    "name": "Set cover",
+    "price": 350,
+    "description": "Jrp",
+    "date added": "2024-02-13",
+    "imageURL": "https://ph-test-11.slatic.net/p/94d77597c0d753711323c8ca6d423b01.jpg"
   }
 ]
